@@ -1,1 +1,1 @@
-# Alphatron---Azure-Bot
+# Alphatron Azure-Bot
